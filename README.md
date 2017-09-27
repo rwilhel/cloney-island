@@ -10,9 +10,9 @@ Here, visitors can click on a city and view tourist attractions in that city, ra
 
 To plan a trip, visitors can sign in, enter their trip details and start planning! Itineraries can be created for each day of a user's holiday by adding attractions to their trip. 
 
-Vendor accounts have the ability to create "Tours" which, ultimately, users will be able to view, review and 'buy.' 
+Vendor accounts have the ability to create "Tours" which, ultimately, users will be able to view, review and "buy." 
 
-Cloney Island Travel also provides administrative access that allows authorized admins to sign up vendors, disable user accounts and access high-level statistics about users.
+Cloney Island Travel also provides administrative access. This allows authorized admins to sign up vendors, disable user accounts and access high-level statistics about users.
 
 ## Stack
 
