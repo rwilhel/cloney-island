@@ -6,9 +6,13 @@
 
 Welcome to Cloney Island Travel, a re-imagining of [Sygic Travel](https://travel.sygic.com). 
 
-Here, visitors can click on a city and view tourist attractions in that city, ranked by prominence. Visitors can also click on the filter navigation links to sort attractions into restaurants, libraries, museums and more. To plan a trip, visitors can sign in, enter their trip details and start planning!
+Here, visitors can click on a city and view tourist attractions in that city, ranked by prominence. Visitors can also click on the filter navigation links to sort attractions into restaurants, libraries, museums and more. 
 
-Itineraries can be created for each day of a user's holiday by adding attractions to their trip. Vendor accounts have the ability to create "Tours" which, ultimately, users will be able to view, review and 'buy.' Cloney Island Travel also has administrative accounts that can sign up vendors, disable user accounts and access high level business logic about users.
+To plan a trip, visitors can sign in, enter their trip details and start planning! Itineraries can be created for each day of a user's holiday by adding attractions to their trip. 
+
+Vendor accounts have the ability to create "Tours" which, ultimately, users will be able to view, review and 'buy.' 
+
+Cloney Island Travel also provides administrative access that allows authorized admins to sign up vendors, disable user accounts and access high-level statistics about users.
 
 ## Stack
 
